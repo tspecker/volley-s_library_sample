@@ -6,4 +6,4 @@ How use it and with the most reusable code that I can wrote (except url).
 
 Contact me for any advice.
 
-> Pardon my english :)
+> forgive my english :)
