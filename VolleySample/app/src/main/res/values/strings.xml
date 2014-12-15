@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VolleySample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- app's strings -->
+    <string name="text_view_sample_screen">This is a portrait screen sample</string>
+    <string name="area_create_user">Area : create user</string>
+    <string name="enter_an_alias">Enter an alias</string>
+    <string name="enter_an_email">Enter an email</string>
+    <string name="enter_a_password">Enter a password</string>
+    <string name="create">Create</string>
+    <string name="area_all_users">Area : get all users</string>
+    <string name="get">Get</string>
+    <string name="area_get_user">Area : get user</string>
+    <string name="enter_user_id">Enter an user id</string>
+    <string name="get_user">Get user</string>
+    <string name="area_delete_user">Area : delete user</string>
+    <string name="delete">Delete</string>
+
+</resources>
